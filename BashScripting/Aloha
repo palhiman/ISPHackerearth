@@ -1,0 +1,5 @@
+# Nmap 7.60 scan initiated Sat Jun 22 16:07:52 2019 as: nmap -sT -v -p31337 -oG Aloha scanme.nmap.org
+# Ports scanned: TCP(1;31337) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 45.33.32.156 (scanme.nmap.org)	Status: Up
+Host: 45.33.32.156 (scanme.nmap.org)	Ports: 31337/open/tcp//Elite///
+# Nmap done at Sat Jun 22 16:07:52 2019 -- 1 IP address (1 host up) scanned in 0.72 seconds
